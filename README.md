@@ -13,7 +13,7 @@
 ---------------------------------------------------------
 
 - 'w = watch'
-- 'i = init'
+- 'i = install'
 - 'y = yes'
 - 'cd = change directory'
 - 'v = version'
