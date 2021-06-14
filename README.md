@@ -2,17 +2,24 @@
 
 ## From Scratch - Développement Web
 
-'npm -v'
-'cd cours'
-'npm init -y'
-'npm i -g json-server'
-'json-server --w db.json'
+---------------------------------------------------------
+
+- 'npm -v'
+- 'cd cours'
+- 'npm init -y'
+- 'npm i -g json-server'
+- 'json-server --w db.json'
+
+---------------------------------------------------------
 
 - 'w = watch'
 - 'i = init'
 - 'y = yes'
 - 'cd = change directory'
 - 'v = version'
+- 
+---------------------------------------------------------
+
 
 ( [VIDEO](https://youtu.be/Xm9i87uliU8) )
 
