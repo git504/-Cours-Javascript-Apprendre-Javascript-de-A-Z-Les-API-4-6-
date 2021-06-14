@@ -1,5 +1,3 @@
-# -Cours-Javascript-Apprendre-Javascript-de-A-Z-Les-API-4-6-
-
 # [Cours Javascript] Apprendre Javascript de A à Z – Les API (4/6)
 
 ## From Scratch - Développement Web
