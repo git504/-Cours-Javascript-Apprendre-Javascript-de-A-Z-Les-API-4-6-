@@ -1,0 +1,29 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.fontSize": 16,
+    "files.autoSave": "afterDelay",
+    "workbench.editor.enablePreview": true,
+    "git.confirmSync": false,
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "vscode-w3cvalidation.validator-token": "Thu, 25 Feb 2021 03:33:48 GMT",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+    
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace",
+        "gitlens.codeLens.scopes": [
+            "document"
+        ]
+    }
+}
